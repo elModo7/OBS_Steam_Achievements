@@ -3,11 +3,8 @@ Show custom Steam Achievements on your Live Stream
 
 Muestra Logros de Steam Personalizables para tus directos.
 
-|▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬|
-|***************|
+
 |*Configurables*|
-|***************|
-|▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬|
 Parámetros configurables desde el menú de Configuración:
 - Intervalo entre Logros
 - Retardo del Texto "Descripción"
@@ -15,11 +12,7 @@ Parámetros configurables desde el menú de Configuración:
 - Idioma/Tipo de Voz
 
 
-|▬▬▬▬▬▬▬▬▬▬▬▬▬▬|
-|************* |
 |*Guía de uso* |
-|************* |
-|▬▬▬▬▬▬▬▬▬▬▬▬▬▬|
 #1: Las imágenes van en la carpeta "res"
 #2: En el archivo "Logros.conf" guardamos los datos:
 
@@ -36,11 +29,7 @@ DescriA|DescriB
 .\res\imagenA.png|.\res\imagenB.png
 
 
-|▬▬▬▬▬▬▬▬▬▬▬▬▬|
-|*************|
 |*Texto A Voz*|
-|*************|
-|▬▬▬▬▬▬▬▬▬▬▬▬▬|
 Dependiendo de tu sistema Operativo y/o tus idiomas instalados, 
 puedes hacer que los logros que lean nada más aparecer con la 
 voz de Loquendo o similar.
