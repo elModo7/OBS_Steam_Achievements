@@ -4,6 +4,7 @@ Show custom Steam Achievements on your Live Stream
 Muestra Logros de Steam Personalizables para tus directos.
 
 
+
 |*Configurables*|
 
 Parámetros configurables desde el menú de Configuración:
@@ -11,6 +12,7 @@ Parámetros configurables desde el menú de Configuración:
 - Retardo del Texto "Descripción"
 - Texto a Voz
 - Idioma/Tipo de Voz
+
 
 
 |*Guía de uso*|
@@ -26,11 +28,13 @@ Descripción1|Descripción2|Descripción3
 
 El archivo tiene 3 líneas, cada una guarda información de ("Titulo", "Descripción", "RutaImagen")
 Cada sección de logro se delimita con el símbolo "|", ejemplo: 
+
 ▼ Logros.conf ▼ [Ejemplo de contenidos #2]
 
 TituloA|TituloB
 DescriA|DescriB
 .\res\imagenA.png|.\res\imagenB.png
+
 
 
 |*Texto A Voz*|
